@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "1066661512995",
+    "project_id": "chatapp-9a838",
+    "storage_bucket": "chatapp-9a838.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066661512995:android:deeeb89d4527f0eed8ee96",
+        "android_client_info": {
+          "package_name": "com.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066661512995-a270covsos6rsbfr8pjjsht4o6jenqiu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcftMBsVtwFXgS638fE5ODmva3lO0J6_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066661512995-a270covsos6rsbfr8pjjsht4o6jenqiu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066661512995:android:597af095cc2a9779d8ee96",
+        "android_client_info": {
+          "package_name": "com.chatapp.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066661512995-5tts715lg0rfq4egqjl26akfsla7a4li.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chatapp.com",
+            "certificate_hash": "46b33e4c4572ee84e7259a83a029de9b46b2f75c"
+          }
+        },
+        {
+          "client_id": "1066661512995-a270covsos6rsbfr8pjjsht4o6jenqiu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcftMBsVtwFXgS638fE5ODmva3lO0J6_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066661512995-a270covsos6rsbfr8pjjsht4o6jenqiu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
